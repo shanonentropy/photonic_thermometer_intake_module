@@ -1,0 +1,5 @@
+intake module is the snippets of codes created to process raw photonic device spectra to test out building of classifer and regression module
+
+names tell you what kind of device's data was processed using this code. These where written when I first learning to write in python and are not the most efficient codes 
+but they work reliably
+
